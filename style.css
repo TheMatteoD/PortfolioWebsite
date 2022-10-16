@@ -1,0 +1,83 @@
+body{
+    background-color: #03273C;
+    color: #006DA4;
+    font-size: 150%;
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    vertical-align:baseline;
+}
+#contact{
+    display: inline-block;
+    background-color: #003554;
+    color: #006DA4;
+    text-align: right;
+    width: 50%;
+    height: 300px;
+    vertical-align: top;
+}
+.contact-link:link{
+    text-decoration: none;
+}
+.contact-link:visited{
+    color: #77B6FB;
+    text-decoration: none;
+}
+#contact-title{
+    padding-right: 3%;
+}
+#container{
+
+}
+#education{
+
+}
+#email{
+    text-align: center;
+    vertical-align: center;
+    width: 30%;
+    float: right;
+    padding-top: 1em;
+}
+#github-img{
+    width:75px;
+}
+#github-img-div{
+    text-align: right;
+    vertical-align: center;
+    width: 75px;
+    float: right;
+    padding-top: .5em;
+}
+#header{
+    background-color: #003554;
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+}
+#linkedin-img{
+    width: 75px;
+}
+#linkedin-img-div{
+    text-align: right;
+    vertical-align: center;
+    width: 75px;
+    float: right;
+    padding-top: .5em;
+    padding-right: 2%;
+}
+p, h5, h3{
+    margin: 0px;
+}
+#profile-image{
+    width: 150px;
+    height: 150px;
+}
+#projects{
+
+}
+#summary{
+
+}
